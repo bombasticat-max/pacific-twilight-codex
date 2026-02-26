@@ -19,6 +19,7 @@ This delivers the **Fast Spherical Harmonic Transform (FSHT)**:
 → Civilization-scale semantic density without collapse, perfect for probes. Experience it live in the demo.
 
 ## Mathematical Foundation (full reconstruction)
+
 ## Utility Stack Synergies: From Mathematical Precision to Everyday & Galactic Flourishing
 
 Pacific Twilight Codex Seed v1.0 is engineered as a complete **utility stack** — a layered system where each mathematical primitive multiplies the value of every other layer. The result is not just elegant math on paper, but a self-reinforcing engine that delivers measurable gains in personal satisfaction, collective coherence, and interstellar robustness.
@@ -48,8 +49,7 @@ Drop one pole in the live demo and you will feel the synergies in motion: a sing
 
 The sphere is turning. The utility multiplies.
 
-## Utility Stack Synergies: From Mathematical Precision to Everyday & Galactic Flourishing
-[paste the longer-form section above here]
+
 
 ## How to Participate (right now)
 1. Open the **Live Demo** → drop a Rilkean photo (coastal twilight ideal) + optional voice.  
