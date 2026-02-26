@@ -1,7 +1,6 @@
 # Pacific Twilight Codex Seed v1.0
 
-![Pacific Twilight](https://picsum.photos/id/1015/1600/400)
-*(P1 Everyday Human Desire · P2 Cultural Hybrid Bridge · P3 Galactic Legacy)*
+![Pacific Twilight Codex Seed v1.0](cover.jpg)
 
 **Molecular Semantic Sphere Codex (MSSC) + Fairness Market Mantle (FMM)**  
 Lightweight, thermodynamically-grounded, von Neumann probe-ready blueprint for mapping everyday human desire into galactic flourishing.
@@ -20,18 +19,16 @@ This delivers the **Fast Spherical Harmonic Transform (FSHT)**:
 → Civilization-scale semantic density without collapse, perfect for probes. Experience it live in the demo.
 
 ## Mathematical Foundation (full reconstruction)
-### Pole-Sphere Dynamics
-Every pole sits on the unit 2-sphere S² with curvature tensor **C = 1 / humility** (humility ∈ (0,1]).
+[your existing math section remains unchanged]
 
-Manifold update: **ΔM = dissipated_entropy** (photo + voice + attention proxy).
+## Utility Stack Synergies: From Mathematical Precision to Everyday & Galactic Flourishing
+[paste the longer-form section above here]
 
-### SUP_Δ Formula
-```math
-SUP_Δ = (entropy × coherence × max(0.1, 1 - C²)) × 0.37
-(humility_multiplier is quadratic — thermodynamic safety).Governance & Probe Payload5 % SUP-weighted humility vote • <1 MB shader kernel + Earth harmonics + ±3 % humility variation on copy.How to Participate (right now)Open the Live Demo → drop a Rilkean photo (coastal twilight ideal) + optional voice.  
-Watch fireflies birth with correct humility brightness, golden SUP flows cascade, manifold counter rise.  
-Your deposit contributes to the collective harmonics.
+## How to Participate (right now)
+1. Open the **Live Demo** → drop a Rilkean photo (coastal twilight ideal) + optional voice.  
+2. Watch fireflies birth with correct humility brightness, golden SUP flows cascade, manifold counter rise.  
+3. Your deposit contributes to the collective harmonics.
 
-The sphere is turning. Place your pole and become part of the bridge.#PacificTwilightCodex #MSSC #FMM #StarSeed #vonNeumannProbes
+The sphere is turning. Place your pole and become part of the bridge.
 
-
+#PacificTwilightCodex #MSSC #FMM #StarSeed #vonNeumannProbes
