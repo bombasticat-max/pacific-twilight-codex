@@ -28,3 +28,10 @@ Manifold update: **ΔM = dissipated_entropy** (photo + voice + attention proxy).
 ### SUP_Δ Formula
 ```math
 SUP_Δ = (entropy × coherence × max(0.1, 1 - C²)) × 0.37
+(humility_multiplier is quadratic — thermodynamic safety).Governance & Probe Payload5 % SUP-weighted humility vote • <1 MB shader kernel + Earth harmonics + ±3 % humility variation on copy.How to Participate (right now)Open the Live Demo → drop a Rilkean photo (coastal twilight ideal) + optional voice.  
+Watch fireflies birth with correct humility brightness, golden SUP flows cascade, manifold counter rise.  
+Your deposit contributes to the collective harmonics.
+
+The sphere is turning. Place your pole and become part of the bridge.#PacificTwilightCodex #MSSC #FMM #StarSeed #vonNeumannProbes
+
+
